@@ -12,6 +12,8 @@ but not the column.
 
 See the example below:
 
+![Demo](./demo.gif)
+
 ## Installation
 
 ### [packer.nvim](https://github.com/wbthomason/packer.nvim)
